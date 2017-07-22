@@ -1,0 +1,8 @@
+class employee
+{
+private string fullName;
+private string fname(
+//Constructors
+public employee(string fname, string lname)
+{
+
